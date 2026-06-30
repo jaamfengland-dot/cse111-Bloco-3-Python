@@ -1,0 +1,6 @@
+Aluno: jojo
+  Ciências: 5.00
+  Matemática: 8.00
+  Língua Portuguesa: 9.00
+Média: 7.33
+Situação: Aprovado

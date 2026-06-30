@@ -1,0 +1,14 @@
+Segundo Relatório para um Projeto Escolhido pelo Estudante
+
+Data          Tempo Gasto (horas)   Descrição do Trabalho
+----------    -------------------   -------------------------------------------------
+2026-06-09    2.0                   Pesquisei e planejei como organizar o programa em funções
+2026-06-10    3.0                  Escrevi as funções obter_notas, calcular_media e verificar_aprovacao
+2026-06-11    1.0                   Escrevi as funções mostrar_resultado e salvar_resultado
+2026-06-12    1.30                  Escrevi as funções de teste com pytest para calcular_media
+2026-06-13    1.0                   Escrevi as funções de teste com pytest para verificar_aprovacao
+2026-06-14    0.45                  Revisei o código e ajustei pequenos detalhes
+2026-06-15    2.30                   Executei os testes, encontrei e corrigi erros no código
+2026-06-16    1.30                   Revisei o projeto inteiro e organizei os arquivos
+2026-06-17    1.0                   Finalizei o relatório e preparei os arquivos para envio
+ 

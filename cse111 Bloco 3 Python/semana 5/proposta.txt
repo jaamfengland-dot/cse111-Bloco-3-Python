@@ -1,0 +1,32 @@
+CSE 111 Proposta para um Programa Escolhido pelo Estudante
+
+    (Esta é uma proposta. Todas as propostas são escritas com o nosso melhor
+    conhecimento no início de um projeto. À medida que avançamos do início
+    ao fim de um projeto, adquirimos mais conhecimento e mudamos algumas
+    das ideias propostas. Isso faz parte da conclusão de qualquer projeto
+    e não há problema. No entanto, ainda precisamos escrever uma proposta
+    para que nossos professores ou supervisores saibam o que pretendemos
+    fazer. Por favor, responda a cada uma das perguntas a seguir da melhor
+    forma possível com base no seu conhecimento.)
+
+1. Qual é o título do seu programa?
+R: Calculadora de notas escolares
+
+2. Que problema do mundo real o seu programa vai abordar ou ajudar a resolver?
+R: Este programa ajudará estudantes a calcular suas médias escolares e verificar se foram aprovados ou reprovados.
+
+3. O que você aprenderá ao desenvolver este programa?
+R:Aprenderei a criar funções em Python, realizar cálculos , organizar dados, 
+receber entrada do usuário e testar funções .
+
+4. Quais módulos Python o seu programa usará?
+R: Math e Pytest
+
+5.Liste os nomes das funções de que você precisará.
+R:calcular_media()
+verificar_aprovacao()
+obter_notas()
+mostrar_resultado()
+
+6. Liste os nomes das funções de teste que você escreverá.
+R: test_calcular_media() e test_verificar_aprovacao()

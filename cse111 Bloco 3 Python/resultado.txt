@@ -1,0 +1,6 @@
+Aluno: pablo
+  Ciências: 4.00
+  Matemática: 7.00
+  Língua Portuguesa: 10.00
+Média: 7.00
+Situação: Aprovado
